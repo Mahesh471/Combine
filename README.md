@@ -4,9 +4,8 @@
 This is a sample repository having some examples of combine framework in swift. To get a local copy up and running follow these simple example steps.
 
 # Prerequisites
-This is an example of how to list things you need to use the software and how to install them.
-
-Download xcode: https://developer.apple.com/xcode
+To run this project you need to 
+download xcode: https://developer.apple.com/xcode
 
 # Installation
 
