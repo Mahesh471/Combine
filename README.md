@@ -20,5 +20,5 @@ This is an example that shows some benefits of using the Combine framework liste
 4. Timer
 5. NotificationCenter
 
-Goto respected demo project folder 
+Goto respected demo project folder. 
 Click on .xcodeproj to open and run project on xcode.
