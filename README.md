@@ -13,4 +13,9 @@ Clone the repo
 https://github.com/Mahesh471/Combine.git
 
 # Usage
-This is an example that shows some benefits of using the Combine framework.
+This is an example that shows some benefits of using the Combine framework listed below,
+1. Data task with combine framework
+2. @Published usage to bind values to changes
+3. Combine with MVVM
+4. Timer
+5. NotificationCenter
